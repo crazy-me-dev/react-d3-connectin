@@ -12,11 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/rolspace/react-d3-webapp.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/rolspace/react-d3-webapp#readme",
   "jest": {
     "projects": [
       "./src/client/",

@@ -39,11 +39,3 @@ In development mode, both applications can be started by going into the /client 
 `npm run dev`
 
 *ESLint and Hot Module Reloading are already configured to run after any changes in the client application.*
-
-### How to run (production)
-
-[Work in Progress]
-
-### How to run (containers)
-
-[Work in Progress]
